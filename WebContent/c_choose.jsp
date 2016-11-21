@@ -18,7 +18,7 @@
 		</c:when>
 
 		<%-- Khi tham số color == 'green' --%>
-		<c:when test="${param.color=='blue'}">
+		<c:when test="${param.color=='green'}">
 			<p style="color: green;">GREEN COLOR</p>
 		</c:when>
 
